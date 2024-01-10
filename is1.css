@@ -16,6 +16,7 @@ body{
 .head{
     display: flex;
     justify-content: space-between;
+    height: 72px;
     
 }
 .headmain button {
@@ -38,22 +39,23 @@ body{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-weight: 700;
-    line-height: 15px;
+    line-height: 45px;
     letter-spacing: 0em;
     margin-top: 13px;
-
+    top: 16px;
 }
 .headmain ul{
     list-style: none;
     display: flex;
     justify-content: space-between;
     margin-right: 120px;
+    top: 16px;
 }
 .headmain li{
     padding: 10px;
     font-family: 'poppins', sans-serif;
     font-size: 15px;
-    line-height: 20px;
+    line-height: 45px;
 }
 .headmain li a{
     text-decoration: none;
