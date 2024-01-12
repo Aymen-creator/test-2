@@ -133,6 +133,9 @@ body{
 .btn button img {
     cursor: pointer;
 }
+.social .saf  {
+    display: none;
+}
 .part2 {
     display: none;
 }
